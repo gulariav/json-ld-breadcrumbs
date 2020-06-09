@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name:     JSON-LD Breadcrumbs
- * Plugin URI:      https://github.com/Nikschavan/json-ld-breadcrumbs
+ * Plugin URI:      https://github.com/gulariav/json-ld-breadcrumbs
  * Description:     Adds JSON-LD based Breadcrumbs schema to your site visible only to the Search Engines.
  * Author:          Nikhil Chavan
  * Author URI:      https://www.nikhilchavan.com/
  * Text Domain:     json-ld-breadcrumbs
  * Domain Path:     /languages
- * Version:         1.0.0
+ * Version:         1.0.1
  *
  * @package         Invisible_Breadcrumbs
  */

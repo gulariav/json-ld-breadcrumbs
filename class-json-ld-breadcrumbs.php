@@ -78,7 +78,7 @@ if ( ! class_exists( 'JSON_LD_Breadcrumbs' ) ) {
 		 * @return (Array) $breadcrumb Breadcrumbs array.
 		 */
 		private function initialize_breadcrumb_schema( $breadcrumb ) {
-			$breadcrumb['@context'] = 'http://schema.org';
+			$breadcrumb['@context'] = 'https://schema.org';
 			$breadcrumb['@type']    = 'BreadcrumbList';
 
 			return $breadcrumb;
